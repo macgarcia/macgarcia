@@ -10,4 +10,4 @@ Dentre elas temos, PSQL - Oracle, JAVA em suas versões 6, 8 e 11, PGPLSQL - Pos
 ![JAVA](https://img.shields.io/badge/Java-6%2C%208%20e%2011-red) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) 
 
 ## Contato
-![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mac-garcia/) ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:macgarcia.iron@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:macgarcia.iron@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lhttps://www.linkedin.com/in/mac-garcia/)](https://www.linkedin.com/in/mac-garcia/)
