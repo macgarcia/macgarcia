@@ -2,7 +2,7 @@
 Marcos Garcia 🙂
 
 Bacharel em ciência da computação, com formação em 2017. Desde então, venho trabalhando com desenvolvimento de sistemas utilizando algumas tecnologias.
-Dentre elas temos, PSQL - Oracle, JAVA em suas versões 6, 8 e 11, PGPLSQL - PostgreSQL, HTML, CSS, JavaScript e Docker.
+Dentre elas temos, PSQL - Oracle, JAVA, PGPLSQL - PostgreSQL, HTML, CSS, JavaScript e Docker.
 
 ## Tecnologias
 
