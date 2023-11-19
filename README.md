@@ -1,8 +1,8 @@
 ## Sobre
 Marcos Garcia 🙂
 
-Atualmente cursando pós graduação na UNICAMP - Universidade Estadual de Campinas no curso de Engenharia e administração em banco de dados.
-Bacharel em Ciência da Computação pela Universidade Paulista-UNIP, campus de Ribeirão Preto-SP. Atua no desenvolvimento de sistemas no meio corporativo, como o fiscal, de administração de dados e de pontos de vendas-PDV, para o quais utiliza tecnologias distintas e construção em camadas. Para processamento de dados, tem experiência com as linguagens Java, SQL, PL/SQL e, para a criação de interfaces para usuários, com HTML, CSS, e JavaScript. Possui conhecimento também em GIT, para o controle de versões, e em Oracle, PostgresSQL e Mysql para armazenamento de dados. Destaca-se sua experiência com o trabalho de todos esses sistemas na plataforma GNU/Linux, da qual é usuário desde 2014, bem como a realização de um estudo para o entendimento da linguagem e estrutura Shell.
+Pós graduando na UNICAMP - Universidade Estadual de Campinas no curso de Engenharia e administração em banco de dados.
+Bacharel em Ciência da Computação pela Universidade Paulista-UNIP, campus de Ribeirão Preto-SP. Atua no desenvolvimento de sistemas no meio corporativo utilizando tecnologias distintas e construção em camadas. Para processamento de dados, tem experiência com as linguagens Java, SQL, PL/SQL e, para a criação de interfaces para usuários, com HTML, CSS, e JavaScript. Possui conhecimento também em GIT, para o controle de versões, e em Oracle, PostgresSQL e Mysql para armazenamento de dados. Destaca-se sua experiência com o trabalho de todos esses sistemas na plataforma GNU/Linux, da qual é usuário desde 2014.
 
 ## Tecnologias
 
