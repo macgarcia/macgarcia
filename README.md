@@ -2,7 +2,9 @@
 Marcos Garcia 🙂
 
 MSc student in database at UFSCar - Federal University of São Carlos.
+
 Post graduate in Engineering and administration on databases at UNICAMP - State University of Campinas.
+
 Bachelor in Computer Science at UNIP - Paulista University at Ribeirão Preto.
 
 Work with system development on corporate environment using distinct technologies and layered constructions, to data processing has experience with langages such Java, SQL, PLSQL, making interfaces of user with HTML, CSS and JavaScript. Also it has knowledge on Git to version control, and to storage work with relational databases such as Oracle, Mysql and PostgresSQL. Linux user sice 2014.
